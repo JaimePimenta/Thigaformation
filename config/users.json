@@ -1,0 +1,6 @@
+[
+  { "id": "pm", "name": "Toi (PM)", "role": "pm" },
+  { "id": "po1", "name": "PO 1", "role": "po" },
+  { "id": "po2", "name": "PO 2", "role": "po" },
+  { "id": "po3", "name": "PO 3", "role": "po" }
+]
